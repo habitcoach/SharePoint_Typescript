@@ -1,0 +1,9 @@
+for package.json ----> npm init
+
+for tsconfig.json ---> tsc --init
+
+for declaration file ----> tsc --declaration example.ts
+
+to complile file to ts -----> tsc <fileName.ts>
+
+to run js file --------> node <fileName.js>
